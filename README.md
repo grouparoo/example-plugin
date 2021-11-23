@@ -4,6 +4,8 @@ This repository can be used as a template when making a new Grouparoo Plugin. Le
 
 This plugin implements an App & Source called `@grouparoo/random-number` in which all property values returned will be a random number between the ranges specified.
 
+![screenshot](https://raw.githubusercontent.com/grouparoo/example-plugin/main/images/screenshot.png)
+
 ## Development Workflow
 
 ```bash
