@@ -8,7 +8,7 @@ This plugin implements an App & Source called `@grouparoo/random-number` in whic
 
 ```bash
 # Get the repo locally
-git clone TODO
+git clone git@github.com:grouparoo/example-plugin.git
 
 # Install dependencies
 npm install
