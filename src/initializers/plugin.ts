@@ -26,7 +26,7 @@ export class Plugins extends Initializer {
               key: "minValue",
               displayName: "Minimum Value",
               required: true,
-              defaultValue: 0,
+              defaultValue: 1,
               description: "The lowest value for the random number",
             },
             {
