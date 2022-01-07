@@ -14,11 +14,11 @@
     "lint": "prettier --check src/**/*.ts"
   },
   "peerDependencies": {
-    "@grouparoo/core": "0.7.5",
+    "@grouparoo/core": "0.7.8",
     "actionhero": "27.3.0"
   },
   "devDependencies": {
-    "@grouparoo/core": "0.7.5",
+    "@grouparoo/core": "0.7.8",
     "@types/node": "17.0.8",
     "actionhero": "28.1.2",
     "prettier": "2.5.1",
