@@ -22,7 +22,7 @@
     "@types/node": "17.0.15",
     "actionhero": "28.1.8",
     "prettier": "2.5.1",
-    "type-fest": "2.11.1",
+    "type-fest": "2.12.0",
     "typescript": "4.5.5"
   },
   "grouparoo": {}
